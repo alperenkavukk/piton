@@ -28,6 +28,6 @@ while a==1:
    kontrol=int(input("tekrar market girişi için 1'e çıkmak için 0"))
 
    if(kontrol==0):
-       a=3
+       a= 3
        print("2N türü ", sayac1  ,"\n 3N türü ",sayac2,"\n 5N türü ",sayac3)
  
