@@ -22,6 +22,5 @@ while(True):
                yazi1 = "{} yemeği {} defa yenilmiştir."
                print(yazi1.format(aranilanyemek, sayac))
            else:
-                break;
-
+                break; 
 
