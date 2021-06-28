@@ -30,3 +30,4 @@ while a==1:
    if(kontrol==0):
        a=3
        print("2N türü ", sayac1  ,"\n 3N türü ",sayac2,"\n 5N türü ",sayac3)
+ 
